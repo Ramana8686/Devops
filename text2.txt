@@ -1,0 +1,4 @@
+undo -
+checkout/restore- undo uncommited/unstaged changes
+revert - safe- undo commited changes
+reset - unsafe undo commited changes
