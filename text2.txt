@@ -5,3 +5,4 @@ reset - unsafe undo commited changes
 
 reset - unsafe undo commited changes
 123
+bug 2 fix added 
