@@ -5,5 +5,9 @@ reset - unsafe undo commited changes
 
 reset - unsafe undo commited changes
 123
+<<<<<<< HEAD
 
 new changes added
+=======
+bug 2 fix added 
+>>>>>>> bug2
