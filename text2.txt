@@ -11,3 +11,8 @@ new changes added
 =======
 bug 2 fix added 
 >>>>>>> bug2
+
+=======
+bug 3 fix added 
+>>>>>>> bug3
+
