@@ -16,3 +16,6 @@ bug 2 fix added
 bug 3 fix added 
 >>>>>>> bug3
 
+=======
+bug 4 fix added 
+>>>>>>> bug4
